@@ -1,0 +1,3 @@
+dataset : https://www.kaggle.com/datasets/ronanpickell/b200c-lego-classification-dataset
+
+app : https://milestone2-p2-kevin-boy.herokuapp.com/
